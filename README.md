@@ -2,10 +2,11 @@
 
 Description
 
-This repository contains a Q-learning algorithm designed to solve the CartPole-v1 environment from OpenAI Gym. https://www.gymlibrary.dev/environments/classic_control/cart_pole/
+This repository contains a Q-learning algorithm designed to solve the CartPole-v1 environment from OpenAI Gym: https://www.gymlibrary.dev/environments/classic_control/cart_pole/
+
 The objective is to balance a pole on a cart by controlling its movement to the left or right.
 
-Key Components
+## Key Components
 
 Environment: CartPole-v1 from OpenAI Gym, which involves balancing a pole on a cart. The episode ends if the pole falls or the cart exits the screen.
 Libraries: Uses gym for the environment and numpy for calculations.
