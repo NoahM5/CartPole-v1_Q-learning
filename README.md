@@ -1,5 +1,5 @@
 CartPole-v1 Q-learning Agent
-#### Video:  <URL https://youtu.be/hapd_qczVfQ>
+
 #### Description:
 This code is implementing a Q-learning algorithm to solve the CartPole-v1 environment from the OpenAI Gym.
 The goal is to balance a pole on top of a cart by controlling the cart's movement left or right.
