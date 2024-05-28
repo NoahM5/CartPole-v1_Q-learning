@@ -23,5 +23,5 @@ choose_action(state, epsilon): Determines actions using an epsilon-greedy policy
 Execution: The main loop manages the environment interactions over episodes and steps, updating the Q-values and rendering the environment to visualize the agent's behavior.
 Learning Process
 
-The Q-learning formula updates Q-values to optimize decision-making over time.
+The Q-learning formula updates Q-values to optimize decision-making over time and make it more efficient.
 Tracking and printing average rewards help monitor learning progress, adjusting as needed to achieve desired performance levels.
